@@ -56,20 +56,22 @@ sudo make install
 
 A barra inferior tática mapeia as principais funções operacionais do sistema através de gatilhos rápidos:
 
+
 | Tecla | Função Principal | Modo Tático |
 | :---: | :--- | :--- |
 | **`F1`** | **USB** | Gerenciador e montador de mídias externas (`udisks2`) |
 | **`F2`** | **HOME** | Retorna instantaneamente ao diretório raiz do usuário |
 | **`F3`** | **APP** | Lançador rápido de aplicações instaladas no sistema |
 | **`F4`** | **NANO** | Abre o editor de texto integrado no arquivo selecionado |
-| **`F5`** | **COR** | Altera esquemas de cores e temas da interface em tempo real |
-| **`F6`** | **PLAY** | Inicia a reprodução de mídias e músicas no player interno |
+| **`F5`** | **COR** | Altera esquemas de cores e temas gerais da interface |
+| **`F6`** | **PLAY** | **Controle e customização do tema do espectro de onda** |
 | **`F7`** | **MIX** | Abre o console de mixagem e volumes de áudio do sistema |
 | **`F8`** | **CAM** | Ativa captura ou gerenciamento de dispositivos de imagem |
 | **`F9`** | **NET** | Painel de controle de redes e conexões (`NetworkManager`) |
 | **`G`**  | **ZEUS** | Ativa o **Zeus Radar** (Sniper instantâneo de sites) |
 | **`S`**  | **CAMUF** | Alterna modos visuais furtivos / ocultação de painéis |
 | **`F10`**| **EXIT** | Encerra a execução do Protofull de forma segura |
+
 
 ---
 ---
