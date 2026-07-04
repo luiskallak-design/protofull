@@ -72,18 +72,26 @@ A barra inferior tática mapeia as principais funções operacionais do sistema 
 | **`F10`**| **EXIT** | Encerra a execução do Protofull de forma segura |
 
 ---
+---
 
-## 🎨 Galeria de Temas Ativos (`assets/`)
+## 🎨 Galeria de Visualização Tática
 
-O repositório traz em sua raiz a suíte de customização visual para o painel de espectro inferior:
-```text
-assets/
-├── protonano.png
-├── protoplayer.png
-├── proto-theme1.png
-├── prototheme2.png
-└── prototheme4.png
-```
+Confira os modos visuais, player e temas integrados na interface do **protofull**:
+
+### 🎛️ Painel do Player & Ondas Customizadas
+![Proto Player](assets/protoplayer.png)
+
+### 📝 Integração com Editor Nano
+![Proto Nano](assets/protonano.png)
+
+### 🎭 Esquemas de Cores & Temas Operacionais
+![Proto Theme 1](assets/proto-theme1.png)
+![Proto Theme 2](assets/prototheme2.png)
+![Proto Theme 4](assets/prototheme4.png)
+
+---
+Desenvolvido com orgulho por **Harpiah** 🦅. Licenciado sob a licença MIT.
+
 
 ---
 Desenvolvido com orgulho por **Harpiah** 🦅. Licenciado sob a licença MIT.
