@@ -72,8 +72,18 @@ A barra inferior tática mapeia as principais funções operacionais do sistema 
 | **`S`**  | **CAMUF** | Alterna modos visuais furtivos / ocultação de painéis |
 | **`F10`**| **EXIT** | Encerra a execução do Protofull de forma segura |
 
+---
+---
+
+## 🔊 Ajuste de Volume Dinâmico
+
+O **protofull** conta com atalhos lineares rápidos para ganho e atenuação de áudio direto na CLI, sem interromper a navegação pelos painéis:
+
+* **`+`** — Incrementa o volume do mixer geral ou player interno.
+* **`-`** — Decrementa o volume de forma tática.
 
 ---
+
 ---
 
 ## 🎨 Galeria de Visualização Tática
