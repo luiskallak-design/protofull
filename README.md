@@ -29,8 +29,17 @@ Para que o **protofull** renderize todas as barras de áudio, ondas, metadados e
 * **`udisks2`** / **`polkit`** - Serviços essenciais para montagem automática e segura de dispositivos USB.
 
 ---
+## 🛠️ Instalação das Dependências (Arch Linux)
 
-## 🚀 Instalação Rápida (Arch Linux)
+Antes de compilar, sincronize os repositórios oficiais e instale todas as ferramentas do ecossistema executando o comando abaixo:
+
+```
+sudo pacman -Sy ncurses networkmanager qterminal nsxiv udisks2 polkit alsa-utils ffmpeg mpv libx11 libxft git make gcc pkg-config sdl2 sdl2_mixer swww feh kitty
+```
+
+---
+
+## 🚀 Instalação do Protofull
 
 ### Via AUR (Usando yay)
 ```bash
