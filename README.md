@@ -93,5 +93,4 @@ Confira os modos visuais, player e temas integrados na interface do **protofull*
 Desenvolvido com orgulho por **Harpiah** 🦅. Licenciado sob a licença MIT.
 
 
----
-Desenvolvido com orgulho por **Harpiah** 🦅. Licenciado sob a licença MIT.
+
