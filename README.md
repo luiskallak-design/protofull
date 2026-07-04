@@ -102,7 +102,7 @@ Confira os modos visuais, player e temas integrados na interface do **protofull*
 ![Proto Theme 4](assets/prototheme4.png)
 
 ---
-Desenvolvido com orgulho por **Harpiah** 🦅. Licenciado sob a licença MIT.
+Desenvolvido com orgulho por **luiskallak-design** 🦅. Licenciado sob a licença MIT.
 
 
 
